@@ -2,8 +2,8 @@ local Players = game:GetService("Players")
 
 -- List of usernames or UserIds to kick
 local bannedPlayers = {
-    "ajontopfr22", -- Replace with the usernames or UserIds you want to kick
-    "dddddddddmopnew",
+    "", -- Replace with the usernames or UserIds you want to kick
+    "",
     -- You can also use UserIds like 123456789
 }
 
